@@ -54,8 +54,8 @@ My research interest includes neural machine translation and computer vision. I 
 - *2019.10*, Volunteer Service Excellence Scholarship, Tsinghua University
 
 # 📖 Educations
--*2022.09 - 2026.06 (Expected)*, \textbf{Tsinghua University}, Master's in Information Art and Design (Interdisciplinary)
-- *2018.09 - 2022.06*, \textbf{Tsinghua University}, Dual Bachelor's Degrees: Journalism & English (Xinya College)
+- **2022.09 - 2026.06 (Expected)**, **Tsinghua University**, Master's in Information Art and Design (Interdisciplinary)
+- **2018.09 - 2022.06**, **Tsinghua University**, Dual Bachelor's Degrees: Journalism & English (Xinya College)
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
