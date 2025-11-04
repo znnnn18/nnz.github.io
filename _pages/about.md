@@ -67,8 +67,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.09 - 2026.06 (Expected)*, Tsinghua University, Master's in Information Art and Design (Interdisciplinary)
 - *2018.09 - 2022.06*, Tsinghua University, Dual Bachelor's Degrees: Journalism & English (Xinya College)
 # 💻 Professional Experience
-- *2022.03 - Present*, Independent Content Creator (652K+ on [Xiaohongshu](https://www.xiaohongshu.com/user/profile/5b25a6c7e8ac2b7b77f724f2?xhsshare=CopyLink&appuid=5b25a6c7e8ac2b7b77f724f2&apptime=1731297481&share_id=2f712691f49b4b3094d52390c3bd4849
-) | 960K+ on [TikTok](https://v.douyin.com/CeiJ5rqd2/ 9@4.com :1pm) | 307K+ on [Bilibili]([您的B站主页链接](https://space.bilibili.com/93662579?spm_id_from=333.1007.0.0
+- *2022.03 - Present*, Independent Content Creator (652K+ on [Xiaohongshu](https://www.xiaohongshu.com/user/profile/5b25a6c7e8ac2b7b77f724f2) | 960K+ on [TikTok](https://www.douyin.com/user/your_actual_id) | 307K+ on [Bilibili](https://space.bilibili.com/93662579))
 )))
 )))
 - *2024.04 - 2024.08*, Product Manager Intern — Meituan AI Evaluation Function Project
