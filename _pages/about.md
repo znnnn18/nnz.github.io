@@ -112,11 +112,8 @@ Z. Xu, Z. Chi, <u><strong>N. Zhang</strong></u>, V. Campo, Q. Chen
 - Co-authored two papers accepted at HRI 2024 (one first-author, one co-author).
 
 
-
-
-
-
-
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2024.11*, Comprehensive Excellence Scholarship, Tsinghua University
