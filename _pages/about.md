@@ -93,11 +93,20 @@ R. Wu, C. Yu, X. Pan, Y. Liu, <u><strong>N. Zhang</strong></u>, Y. Fu, Y. Wang, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">HRI 2024</div><img src='images/500x300.png' alt="ORBO" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ORBO: The Emotionally Intelligent Anthropomorphic Robot Enhancing Smartphone Interaction](https://doi.org/10.1145/3610978.3640695)
+**Emotionally Intelligent Robot for Smartphone Interaction**
 
+
+[ORBO: The Emotionally Intelligent Anthropomorphic Robot Enhancing Smartphone Interaction](https://doi.org/10.1145/3610978.3640695)  
 <u><strong>N. Zhang</strong></u>, Z. Chi, Z. Xu, Q. Chen, V. Campo, Y. Guo, H. Mi
 
-- paper content
+
+[Eye See You: The Emotionally Intelligent Anthropomorphic Robot Enhancing Smartphone Interaction](https://doi.org/10.1145/3610978.3641267)  
+Z. Xu, Z. Chi, <u><strong>N. Zhang</strong></u>, V. Campo, Q. Chen
+
+- Owned the end-to-end development of ORBO, an emotionally intelligent anthropomorphic robot designed to enhance smartphone interactions.
+- Led the design and theoretical foundation, conducting the literature review, establishing the theoretical framework, and designing key interaction scenarios.
+- Developed a functional prototype and produced a demonstration video to showcase the robot’s design outcomes and novel interaction modalities.
+- Co-authored two papers accepted at HRI 2024 (one first-author, one co-author).
 </div>
 </div>
 
