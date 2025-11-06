@@ -17,9 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+
+Hi, I’m Ningning Zhang, a master’s student at Tsinghua University studying the interdisciplinary program of Information Art and Design. I’m co-advised by Prof. Zhigang Wang at the [Institute for Creative New Media & Performing Arts](https://thu-impa.cn/) and Prof. Chun Yu at the [Pervasive Interaction Lab](https://pi.cs.tsinghua.edu.cn/). My research lies at the intersection of Human–Computer Interaction, social computing, and media studies, focusing on how generative AI and social media reshape human creativity, communication, and identity expression.
+
+Before graduate school, I studied Journalism at Tsinghua’s Xinya College, where I also completed a broad liberal arts education. Building on that foundation, my current work explores how to design more responsible and empowering digital environments that support both individual expression and collective well-being.
+
 
 
 # 📝 Publications 
@@ -107,12 +110,8 @@ Z. Xu, Z. Chi, <u><strong>N. Zhang</strong></u>, V. Campo, Q. Chen
 - Led the design and theoretical foundation, conducting the literature review, establishing the theoretical framework, and designing key interaction scenarios.
 - Developed a functional prototype and produced a demonstration video to showcase the robot’s design outcomes and novel interaction modalities.
 - Co-authored two papers accepted at HRI 2024 (one first-author, one co-author).
-</div>
-</div>
 
 
-</div>
-</div>
 
 
 
